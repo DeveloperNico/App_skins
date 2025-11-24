@@ -1,4 +1,4 @@
-# avaliacao_3
+# Avaliacao 3
 Esse reletório é para a terceira avaliação da metéria de Desenvolvimento Mobile.
 
 
@@ -147,57 +147,30 @@ flutter:
 ## 📱 Como Executar o Projeto
 ```bash
 # Clonar o repositório
-git clone https://github.com/SEU_USUARIO/seu_projeto.git
+git clone https://github.com/DeveloperNico/App_skins.git
 
 # Acessar a pasta
-cd seu_projeto
+cd avaliacao_3
 
 # Instalar dependências
 flutter pub get
 
 # Executar no emulador ou dispositivo físico
 flutter run
-📦 Geração do APK
-A geração do APK foi realizada com o comando:
 
-bash
-Copiar código
-flutter build apk --release
-O arquivo final foi gerado em:
-
-swift
-Copiar código
-build/app/outputs/flutter-apk/app-release.apk
-O APK foi instalado manualmente em um smartphone Android para testes.
-
-📸 Imagens do Aplicativo
-Aqui você pode adicionar prints, por exemplo:
-
-Tela inicial
-
-Lista de skins
-
-Detalhes da skin
-
-Carrinho
-
-Confirmação de compra
-
-(Basta arrastar as imagens para o repositório ou colar links.)
 
 🧠 Decisões de Implementação
 Criação de widgets reutilizáveis para cards de skins
 
 Organização das pastas para facilitar manutenção
 
-Dados das skins estruturados em lista mockada ou JSON interno
+Dados das skins estruturados em lista mockada
 
-Navegação utilizando Navigator.push() e Navigator.pop()
 
 📚 Dificuldades Encontradas
 Ajustar o layout responsivo para telas menores
 
-Organizar os dados e estrutura do projeto
+Organizar a estrutura com o firebase
 
 Aprender a navegação do Flutter
 
@@ -212,30 +185,20 @@ Experiência prática completa com Flutter
 
 Sucesso na exportação e teste do APK no dispositivo físico
 
-🧩 Possíveis Melhorias Futuras
-Integração com API real de skins
-
-Sistema de login
-
+🧩 Melhorias Futuras
 Histórico de compras
-
-Banco de dados local (Hive ou Sqflite)
 
 Adição de animações personalizadas
 
+Layout mais moderno
+
 👨‍💻 Autor
-Nicolas
+Nicolas Duarte Silva
 Estudante de Análise e Desenvolvimento de Sistemas – 3º Semestre
 
 🙏 Agradecimentos
 Projeto desenvolvido para fins de estudo e prática em Flutter.
+Agradeço ao professor **Vinicius Almeida** pelo suporte e pelas orientações que contribuíram diretamente para o desenvolvimento deste projeto.
 Deus abençoe 🙏
-
-yaml
-Copiar código
 
 ---
-
-Se quiser, posso adaptar o README **exatamente para o seu projeto**, com nome do app, prints, descrição real das telas e até adicionar GIFs.  
-É só me enviar essas informações quando quiser!  
-Deus abençoe 🙏
